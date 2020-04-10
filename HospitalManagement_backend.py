@@ -1,5 +1,4 @@
 import sqlite3 as sql
-import Tk_ui
 
 def applicationDoctor():
 	data= sql.connect("Hospital.db")
